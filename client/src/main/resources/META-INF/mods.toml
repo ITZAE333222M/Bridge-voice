@@ -5,11 +5,11 @@ issueTrackerURL="https://github.com/plasmoapp/plasmo-voice/issues"
 [[mods]]
 modId="plasmovoice"
 version="${version}"
-displayName="Plasmo Voice"
+displayName="Bridge Voice"
 displayURL="https://github.com/plasmoapp/plasmo-voice"
 logoFile="icon.png"
-authors="Apehum"
-description="A proximity voice chat mod with audio positioning and lots of features"
+authors="ImD4rken"
+description="Chat de priximidad para eventos de Bridge Productions"
 [[dependencies.plasmovoice]]
     modId="forge"
     mandatory=true
